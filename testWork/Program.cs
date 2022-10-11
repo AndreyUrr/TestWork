@@ -29,5 +29,9 @@ namespace testWork
 
             Console.ReadLine();
         }
+        public void Something()
+        {
+            int a = 2;
+        }
     }
 }
