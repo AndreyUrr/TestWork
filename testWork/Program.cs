@@ -33,5 +33,10 @@ namespace testWork
         {
             int a = 2;
         }
+
+        public void Something2()
+        {
+            int a = 22;
+        }
     }
 }
