@@ -20,6 +20,7 @@ namespace testWork
             Console.WriteLine();
 
             Console.WriteLine("тут тестовое сообщение");
+            Console.WriteLine("Новый функционал");
 
             for (int i = 0; i < resFloat.Length; i++)
             {
